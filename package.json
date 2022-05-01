@@ -12,9 +12,8 @@
   },
   "overrides": {
     "@types/react": "18.0.5",
-    "foo2": {
-      ".": "1.0.0",
-      "bar2": "1.0.0"
+     "awesome-typescript-loader": {
+      "typescript": "~4.6.2"
     }
   }
 }
