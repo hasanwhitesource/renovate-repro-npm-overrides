@@ -8,9 +8,9 @@
     "@types/react": "18.0.5"
   },
   "resolutions": {
-    "@types/react": "18.0.5"
+    "@types/react": "17.0.44"
   },
   "overrides": {
-    "@types/react": "17.0.5"
+    "@types/react": "17.0.44"
   }
 }
