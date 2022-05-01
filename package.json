@@ -5,10 +5,10 @@
   "private": true,
   "author": "Karl Horky <karl.horky@gmail.com>",
   "devDependencies": {
-    "@types/react": "18.0.5"
+    "@types/react": "18.0.8"
   },
   "overrides": {
-    "@types/react": "17.0.5",
+    "@types/react": "18.0.8",
      "awesome-typescript-loader": {
       "typescript": "3.0.0"
     }
