@@ -8,7 +8,7 @@
     "@types/react": "18.0.5"
   },
   "overrides": {
-    "@types/react": "17.0.5",
+    "@types/react": "17.0.45",
      "awesome-typescript-loader": {
        ".": "3.0.0",
       "typescript": "3.0.0"
